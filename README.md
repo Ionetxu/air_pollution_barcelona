@@ -1,2 +1,2 @@
 # air_pollution_barcelona
-Analysis and forecast of air pollution in Barcelona
+Please ignore this repository, and check https://github.com/Ionetxu/Project_Air instead to see my work on pollution in Barcelona. Thanks!
